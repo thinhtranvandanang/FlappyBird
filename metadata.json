@@ -1,0 +1,6 @@
+{
+  "name": "Vỗ Cánh",
+  "description": "Trò chơi arcade vượt chướng ngại vật phong cách Flappy Bird chơi trực tiếp trên trình duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
